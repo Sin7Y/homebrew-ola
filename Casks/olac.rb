@@ -7,7 +7,7 @@ cask "olac" do
         sha256 "f8182bbbfa6d8acf01c24977241cc1a020c9b6f5851360c31bff238a374d76a8"
     end
 
-    version "0.1.0"
+    version "0.1.1"
     url "https://github.com/Sin7Y/ola-lang/releases/download/v#{version}/olac-mac-#{arch}"
     name "Olac"
     desc "Olac is Ola language compiler."
